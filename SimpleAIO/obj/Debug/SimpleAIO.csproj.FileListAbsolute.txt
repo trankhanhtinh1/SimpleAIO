@@ -1,0 +1,3 @@
+C:\Users\Admin\Desktop\SimpleAIO-main\SimpleAIO\obj\Debug\SimpleAIO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SimpleAIO-main\SimpleAIO\obj\Debug\SimpleAIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\SimpleAIO-main\SimpleAIO\obj\Debug\SimpleAIO.csproj.CoreCompileInputs.cache
